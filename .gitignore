@@ -1,0 +1,7 @@
+/Modelos-Backend
+/Tests
+ui/.vscode
+ui/.svelte-kit
+ui/node_modules
+ui/.npmrc
+ui/package-lock.json
